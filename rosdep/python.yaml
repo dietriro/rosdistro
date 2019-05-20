@@ -2531,6 +2531,10 @@ python-opengl:
     xenial: [python-opengl]
     yakkety: [python-opengl]
     zesty: [python-opengl]
+python-pip-openpyxl:
+  ubuntu:
+    pip:
+      packages: [openpyxl]
 python-openssl:
   debian: [python-openssl]
   gentoo: [dev-python/pyopenssl]
